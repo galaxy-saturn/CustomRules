@@ -6,4 +6,4 @@
 # 规则内容较少，不会影响性能，请放心使用
 
 # synology DDNS补充
-IP-CIDR,64.124.13.145/32,no-resolve
+# IP-CIDR,64.124.13.145/32,no-resolve
