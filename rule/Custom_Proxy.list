@@ -4,5 +4,5 @@
 # 强制代理列表，来自个人收集
 
 # Cloudflare
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,cloudflarestorage.com
+# DOMAIN-SUFFIX,cloudflare.com
+# DOMAIN-SUFFIX,cloudflarestorage.com
