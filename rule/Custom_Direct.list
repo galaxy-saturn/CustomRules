@@ -115,3 +115,6 @@ DOMAIN-SUFFIX,raining.top
 # 以下自用添加
 # 前端资源公共内容分发网络（CDN）
 DOMAIN-SUFFIX,unpkg.com
+
+# 开源自由的网络时间协议NTP
+IP-CIDR,84.16.67.12/32,no-resolve
