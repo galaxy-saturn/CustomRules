@@ -118,3 +118,6 @@ DOMAIN-SUFFIX,unpkg.com
 
 # 开源自由的网络时间协议NTP
 IP-CIDR,84.16.67.12/32,no-resolve
+
+# mtab官网
+DOMAIN-SUFFIX,mtab.cc
