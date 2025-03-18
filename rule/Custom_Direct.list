@@ -121,3 +121,7 @@ IP-CIDR,84.16.67.12/32,no-resolve
 
 # mtab官网
 DOMAIN-SUFFIX,mtab.cc
+
+# ip检测
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ip.sb
