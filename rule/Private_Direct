@@ -1,0 +1,20 @@
+# NAME: Custom_Direct
+# AUTHOR: Aethersailor
+# REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
+# 强制直连域名列表，来自个人收集
+# 此规则文件中的域名是根据个人习惯所添加
+
+
+# 以下自用添加
+# 前端资源公共内容分发网络（CDN）
+DOMAIN-SUFFIX,unpkg.com
+
+# 开源自由的网络时间协议NTP
+IP-CIDR,84.16.67.12/32,no-resolve
+
+# mtab官网
+DOMAIN-SUFFIX,mtab.cc
+
+# ip检测
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ip.sb
