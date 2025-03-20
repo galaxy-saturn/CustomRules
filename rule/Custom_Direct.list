@@ -58,10 +58,7 @@ DOMAIN-SUFFIX,pool.ntp.org
 # Dell
 DOMAIN-SUFFIX,dell.com
 # Cloudflare
-#DOMAIN-SUFFIX,cloudflare.com
-# Cursor
-DOMAIN-SUFFIX,cursor.sh
-DOMAIN-SUFFIX,cursor.com
+# DOMAIN-SUFFIX,cloudflare.com
 
 # FLiNG Trainer
 DOMAIN-SUFFIX,flingtrainer.com
