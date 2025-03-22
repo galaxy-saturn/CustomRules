@@ -3,3 +3,6 @@
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # 强制代理列表，来自个人收集
 
+# 以下自用添加
+# bilibili港澳台
+DOMAIN-SUFFIX,bilibili.tv
