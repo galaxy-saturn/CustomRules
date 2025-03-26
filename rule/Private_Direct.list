@@ -18,3 +18,24 @@ DOMAIN-SUFFIX,mtab.cc
 # ip检测
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ip.sb
+
+# 同花顺
+DOMAIN-SUFFIX,0033.com
+DOMAIN-SUFFIX,hexin.cn
+DOMAIN-SUFFIX,10jqka.com.cn
+DOMAIN-SUFFIX,iwencai.com
+DOMAIN-SUFFIX,thsi.cn
+DOMAIN-SUFFIX,tdx.com.cn
+DOMAIN-SUFFIX,gw.com.cn
+DOMAIN-SUFFIX,hexun.com
+DOMAIN-SUFFIX,soumoney.com.cn
+DOMAIN-SUFFIX,thsbx.com
+DOMAIN-SUFFIX,ticang.com
+DOMAIN-SUFFIX,51ifind.com
+DOMAIN-SUFFIX,5ifund.com
+DOMAIN-SUFFIX,yingfund.net
+DOMAIN-SUFFIX,myhexin.com
+DOMAIN-SUFFIX,123ths.com
+DOMAIN-SUFFIX,huntgold.cn
+DOMAIN-SUFFIX,thsbaoxian.net
+DOMAIN-SUFFIX,touzime.net
