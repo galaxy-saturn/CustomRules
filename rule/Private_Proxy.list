@@ -6,3 +6,7 @@
 # 以下自用添加
 # bilibili港澳台
 DOMAIN-SUFFIX,bilibili.tv
+
+# bilibili港澳台
+DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,mushroomtrack.com
